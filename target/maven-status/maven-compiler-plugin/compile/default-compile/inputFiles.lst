@@ -1,0 +1,13 @@
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/QueryBuilder.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/util/CommonFunctions.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/pojo/SelectPojo.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/util/BuildObjects.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/SitichOperator.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/operators/selectTransform.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/operators/MapTransform.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/kafkaBase/CustomKafkaDeserializationSchema.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/pojo/FilterPojo.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/kafkaBase/GeneraliseloadProducer.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/kafkaBase/FullpayloadKafkaBase.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/kafkaBase/FullpayloadConsumer.java
+/Users/z004t01/Desktop/git_repo/git_repo/GeneralizedFrameWorkForRealTime/src/main/java/com/target/generalize/operators/FilterTransform.java

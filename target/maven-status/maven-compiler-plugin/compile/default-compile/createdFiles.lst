@@ -1,0 +1,4 @@
+com/target/generalize/SitichOperator.class
+com/target/generalize/kafkaBase/CustomKafkaDeserializationSchema.class
+com/target/generalize/kafkaBase/FullpayloadKafkaBase.class
+com/target/generalize/kafkaBase/FullpayloadConsumer.class
